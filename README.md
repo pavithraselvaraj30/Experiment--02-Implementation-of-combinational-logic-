@@ -47,9 +47,6 @@ endmodule
 ```
 ## RTL realization
 ![WhatsApp Image 2023-12-28 at 20 18 14_e447e856](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/e4b4a055-d21b-485e-ac28-4963b2971305)
-
-
-
 ## Truth Table:
 
 ![WhatsApp Image 2023-12-28 at 20 19 11_05beba0d](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/c72e4378-24b2-43d2-8e2c-102ec9c0636c)
