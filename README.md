@@ -46,16 +46,16 @@ endmodule
 */
 ```
 ## RTL realization
-![WhatsApp Image 2023-12-28 at 20 05 17_03ae849e](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/e82616bf-3a3d-4ced-b775-bf0280723c1c)
+![WhatsApp Image 2023-12-28 at 20 05 17_7fb52325](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/40798366-72c8-4811-82bd-4cc90686a6d6)
 
 
 
 ## Truth Table:
-![WhatsApp Image 2023-12-28 at 20 05 12_c4a1a75f](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/f23a3823-6a58-4475-ac90-5f5e1143ad97)
 
+![WhatsApp Image 2023-12-28 at 20 05 12_149aed52](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/96f0fdfb-5efc-480f-8007-c78c87f523eb)
 
 ## Timing Diagram:
-![WhatsApp Image 2023-12-28 at 20 05 12_3466de3b](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/7ea741e0-093b-4a51-b8b3-6a8da4a2e2de)
+![WhatsApp Image 2023-12-28 at 20 05 12_8bc0048c](https://github.com/pavithraselvaraj30/Experiment--02-Implementation-of-combinational-logic-/assets/149366880/d5d7d12e-6c95-4c60-817a-d720c0e62ad4)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
